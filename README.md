@@ -25,7 +25,6 @@
 - ⚡ Fun fact: ...
 - 
  
-<summary>
  Some projects I have worked during my masters and other studies:
 </summary>
 
