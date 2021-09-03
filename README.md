@@ -28,3 +28,5 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{waldyrfaustini}/count.svg" alt="waldyrfaustini :: Visitor's Count" /></p>
 -->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=waldyrfaustini.waldyrfaustini)
