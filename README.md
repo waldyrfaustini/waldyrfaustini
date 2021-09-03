@@ -25,7 +25,7 @@
 - ⚡ Fun fact: ...
 - 
  
-  Projects I have worked in the past:
+  Projects I have worked in the past :
 </summary>
 
 <br />
