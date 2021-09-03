@@ -26,8 +26,9 @@ I have worked in a trading desk my entire career, I started in São Paulo and mo
  My coursework plan is:
  - [Data Science And Data-Driven Modeling (MATH-GA.2070)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2070-001)
  - [Machine Learning & Computational Statistics (MATH-GA.2071)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/spring-2021/#math-ga2071-001)
- -
- -
+ - [Algorithmic Trading & Quantitative Strategies (MATH-GA.2708)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/spring-2021/#math-ga2708-001)
+ - [Time Series Analysis & Statistical Arbitrage(MATH-GA.2707)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2707-001)
+ - [Trends In Financial Data Science(MATH-GA.2047)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2047-001)
  
  
 
