@@ -7,9 +7,9 @@
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-30-blue" />
-  <img src="https://img.shields.io/badge/Focus-Trading/Algo%20Trading/Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Trading/Algo%20Trading/Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Lives-New%20York%20-success" />
-  <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-blue" />
 </p>
 
 ### Hi there! I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
