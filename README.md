@@ -68,7 +68,7 @@ Programing Languages:
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Market-Microstructure)](https://github.com/waldyrfaustini/Market-Microstructure)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=Computational-Methods-in-Finance)](https://github.com/waldyrfaustini/Computational-Methods-in-Finance)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Computational-Methods-in-Finance)](https://github.com/waldyrfaustini/Computational-Methods-in-Finance)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ChiragJhawar&repo=ProjectReward)](https://github.com/ChiragJhawar/ProjectReward)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
