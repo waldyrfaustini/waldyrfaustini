@@ -70,6 +70,7 @@ Programing Languages:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Market-Microstructure)](https://github.com/waldyrfaustini/Market-Microstructure)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Computational-Methods-in-Finance)](https://github.com/waldyrfaustini/Computational-Methods-in-Finance)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Portfolio-Theory-Applications)](https://github.com/waldyrfaustini/Portfolio-Theory-Applications)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Portfolio-Theory-Applications)](https://github.com/waldyrfaustini/Portfolio-Theory-Applications)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldyrfaustini&repo=Advanced-Derivatives)](https://github.com/stocksmith/https://github.com/waldyrfaustini/Advanced-Derivatives)
 
 <br />
