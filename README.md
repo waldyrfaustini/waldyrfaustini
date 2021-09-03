@@ -18,10 +18,7 @@
   <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-brightgreen" />
 </p>
 
-### Hi there 👋 I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
-<a href="https://www.linkedin.com/in/waldyrfaustini/">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### Hi there! I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
 
 
 - 🔭 I’m currently working on ...
