@@ -6,9 +6,6 @@
 
 ### Hi there 👋 I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
 
-<hr>
-<h1 align="center">
-### Hi there, I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)! Welcome! </h1>
 <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
