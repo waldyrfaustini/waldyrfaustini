@@ -37,7 +37,7 @@
 
 <br />
 
-## -> Programming languages:
+Programing Languages:
 
 <p align="left"> 
   &emsp; 
