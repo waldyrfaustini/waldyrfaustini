@@ -39,7 +39,7 @@ I have worked in a trading desk my entire career, I started in São Paulo and mo
  - [Trends In Financial Data Science(MATH-GA.2047)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2047-001)
  
  
-Do check out my repositories and feel free to reach out me, most of my portfolio is about what I have worked in my graduate studies. 
+Do check out my repositories and feel free to reach out me, all my portfolio is about what I have worked in my graduate studies. 
 
 </h4>
 </div>
