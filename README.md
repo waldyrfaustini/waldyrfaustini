@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-blue" />
 </p>
 
-### Hi there! I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
+### Hi there! I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/) ! Welcome to my Github profile
 
 
 - 🔭 I’m currently working on ...
