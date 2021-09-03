@@ -4,7 +4,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
+############################# Hi there 👋 I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
 
 <p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
