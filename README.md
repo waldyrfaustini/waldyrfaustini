@@ -53,9 +53,6 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=waldyrfaustini.waldyrfaustini)
