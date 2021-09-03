@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Lives-New%20York%20-success" />
   <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-brightgreen" />
 </p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 
 ### Hi there 👋
 
@@ -26,4 +24,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=waldyrfaustini&show_icons=true&theme=synthwave" alt="waldyrfaustini :: Profile Stats" /></p>
 -->
