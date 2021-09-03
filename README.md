@@ -17,7 +17,7 @@
 
  <p>
 
-I am 30 years old and I major in Physics at Universidade de São Paulo - USP[](http://portal.if.usp.br/ifusp/)  
+I am 30 years old and I major in Physics at [Universidade de São Paulo - USP](http://portal.if.usp.br/ifusp/)  
 
 I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
 
