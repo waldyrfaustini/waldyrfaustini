@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Lives-New%20York%20-success" />
   <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-brightgreen" />
 </p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
 
 ### Hi there 👋
 
