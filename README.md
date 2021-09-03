@@ -23,7 +23,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- 
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+<br />
+<br />
+<br />
+<details>
+<summary>
  Projects I am currently working on
 </summary>
 
