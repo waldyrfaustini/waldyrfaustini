@@ -19,10 +19,19 @@
 
 I am 30 years old and I major in Physics at [Universidade de São Paulo - USP](https://en.wikipedia.org/wiki/University_of_São_Paulo), [Instituto de Física da USP (IFUSP)](https://pt.wikipedia.org/wiki/Instituto_de_F%C3%ADsica_da_Universidade_de_São_Paulo) . 
  
-I have worked in a trading desk my entire career, I started in São Paulo and moved to New York in 2019. I have worked in Credit, Rates, FX and FX Options during the last couple of years. Since I started in finance, I have seen some huge transformations in the market throughout the years and I am confident that algorithmic machines are changing the way we trade in the market. Since I started in finance, I have seen some huge transformations in the market throughout the years and I am confident that algorithmic machines are changing the way we trade in the market. In some point I realized that it was important to have a formal education related with financial markets and machine learning. I started my master’s degree program in [Financial Engineering with concentration in Algorithmic Trading Strategies](https://www.stevens.edu/school-business/masters-programs/financial-engineering/curriculum-overview) at [Stevens Institute of Technology](https://www.stevens.edu) last summer (2020) 
+I have worked in a trading desk my entire career, I started in São Paulo and moved to New York in 2019. I have worked in Credit, Rates, FX and FX Options during the last couple of years. Since I started in finance, I have seen some huge transformations in the market throughout the years and I am confident that algorithmic machines are changing the way we trade in the market. I am sure that my extensive experience as a trader combined with my strong quantitative skills could be a strong combinatio, then in some point I realized that it was important to have a formal education related with financial markets and machine learning. I started my master’s degree program in [Financial Engineering with concentration in Algorithmic Trading Strategies](https://www.stevens.edu/school-business/masters-programs/financial-engineering/curriculum-overview) at [Stevens Institute of Technology](https://www.stevens.edu) last summer (2020) to learn advanced technical skills. I just completed halfway through the path to get my degree and I can say I have been learning a lot since I started the program. I took classes in derivatives, mathematical fundamentals, coding, and financial modeling. 
+ 
+ I am deeply interested in Algorithmic and Systematic Trading. In the next 18 months I will attend [NYU (New York University) - Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) as Non-Degree Graduate Student for [Mathematics in Finance](https://math.nyu.edu/financial_mathematics/academics/courses/) program, I will take 5 courses from Graduate level to learn more about Machine Learning applied to Finance, Statistical Arbitrage and Algorithmic Trading.
+ 
+ My coursework plan is:
+ - [Data Science And Data-Driven Modeling (MATH-GA.2070)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2070-001)
+ - [Machine Learning & Computational Statistics (MATH-GA.2071)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/spring-2021/#math-ga2071-001)
+ -
+ -
+ 
  
 
-I am fascinated by Trading and Financial Markets. I aspire to become an accomplished Quantitative Analyst and manage my own fund one day. I am deeply interested in Algorithmic and systematic trading. I am also interested in software development and API Engineering to make pwerful developer tools for others. I aspire to wrk for some company and develop software that has a positive impace pn Society. 
+
 
 I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [DEV.to](https://dev.to/apurvshah007) page.
 
