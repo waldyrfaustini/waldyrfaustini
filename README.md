@@ -21,6 +21,15 @@ I am 30 years old and I major in Physics at [Universidade de São Paulo - USP](h
  
 I have worked in a trading desk my entire career, I started in São Paulo and moved to New York in 2019. I have worked in Credit, Rates, FX and FX Options during the last couple of years. Since I started in finance, I have seen some huge transformations in the market throughout the years and I am confident that algorithmic machines are changing the way we trade in the market. I am sure that my extensive experience as a trader combined with my strong quantitative skills could be a strong combinatio, then in some point I realized that it was important to have a formal education related with financial markets and machine learning. I started my master’s degree program in [Financial Engineering with concentration in Algorithmic Trading Strategies](https://www.stevens.edu/school-business/masters-programs/financial-engineering/curriculum-overview) at [Stevens Institute of Technology](https://www.stevens.edu) last summer (2020) to learn advanced technical skills. I just completed halfway through the path to get my degree and I can say I have been learning a lot since I started the program. I took classes in derivatives, mathematical fundamentals, coding, and financial modeling. 
  
+ My coursework at Stevens:
+ - [Pricing and Hedging(FE620)](https://fsc.stevens.edu/fe620-pricing-and-hedging/)
+ - [Stochastic Calculus for Financial Engineers(FE610)](https://fsc.stevens.edu/fe610-stochastic-calculus-for-financial-engineers/)
+ - [Market Microstructure and Trading Strategies(FE570)](https://fsc.stevens.edu/fe570-market-microstructure-and-trading-strategies/)
+ - [Computational Methods in Finance (FE621)](https://fsc.stevens.edu/fe621-computational-methods-in-finance/)
+ - [Portfolio Theory and Applications (FE630)](https://fsc.stevens.edu/fe630-portfolio-theory-and-applications/)
+ - [Advanced Derivatives (FE680)](https://fsc.stevens.edu/fe680-advanced-derivatives/)
+ -
+ 
  I am deeply interested in Algorithmic and Systematic Trading. In the next 18 months I will attend [NYU (New York University) - Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) as Non-Degree Graduate Student for [Mathematics in Finance](https://math.nyu.edu/financial_mathematics/academics/courses/) program, I will take 5 courses from Graduate level to learn more about Machine Learning applied to Finance, Statistical Arbitrage and Algorithmic Trading.
  
  My coursework plan is:
