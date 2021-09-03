@@ -25,5 +25,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=waldyrfaustini&show_icons=true&theme=synthwave" alt="waldyrfaustini :: Profile Stats" /></p>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{waldyrfaustini}/count.svg" alt="waldyrfaustini :: Visitor's Count" /></p>
 -->
