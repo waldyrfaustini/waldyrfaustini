@@ -18,6 +18,7 @@
  <p>
 
 I am 30 years old and I major in Physics at [Universidade de São Paulo - USP](https://en.wikipedia.org/wiki/University_of_São_Paulo), [Instituto de Física da USP (IFUSP)](https://pt.wikipedia.org/wiki/Instituto_de_F%C3%ADsica_da_Universidade_de_São_Paulo) . 
+ 
 I have worked in a trading desk my entire career, I started in São Paulo and moved to New York in 2019. I have worked in Credit, Rates, FX and FX Options during the last couple of years. Since I started in finance, I have seen some huge transformations in the market throughout the years and I am confident that algorithmic machines are changing the way we trade in the market. Since I started in finance, I have seen some huge transformations in the market throughout the years and I am confident that algorithmic machines are changing the way we trade in the market. 
  
 
