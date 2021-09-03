@@ -1,12 +1,5 @@
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-############################# Hi there 👋 I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
-
-<p align="center">
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
@@ -19,7 +12,8 @@
   <img src="https://img.shields.io/badge/Languages-Portuguese(Brasil)%20%26%20English-brightgreen" />
 </p>
 
-### Hi there 👋
+### Hi there 👋 I am [Waldyr Faustini](https://www.linkedin.com/in/waldyrfmfaustini/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
