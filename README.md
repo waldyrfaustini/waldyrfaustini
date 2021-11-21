@@ -29,15 +29,7 @@ I have worked in a trading desk my entire career, I started in São Paulo in 201
  - [Portfolio Theory and Applications (FE630)](https://fsc.stevens.edu/fe630-portfolio-theory-and-applications/)
  - [Advanced Derivatives (FE680)](https://fsc.stevens.edu/fe680-advanced-derivatives/)
  
- I am deeply interested in Algorithmic and Systematic Trading. In the next 18 months I will attend [NYU (New York University) - Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/) as Non-Degree Graduate Student for [Mathematics in Finance](https://math.nyu.edu/financial_mathematics/academics/courses/) program, I will take 5 courses at  Graduate level to learn more about Machine Learning applied to Finance, Statistical Arbitrage and Algorithmic Trading.
- 
- My coursework plan is:
- - [Data Science And Data-Driven Modeling (MATH-GA.2070)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2070-001)
- - [Machine Learning & Computational Statistics (MATH-GA.2071)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/spring-2021/#math-ga2071-001)
- - [Algorithmic Trading & Quantitative Strategies (MATH-GA.2708)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/spring-2021/#math-ga2708-001)
- - [Time Series Analysis & Statistical Arbitrage(MATH-GA.2707)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2707-001)
- - [Trends In Financial Data Science(MATH-GA.2047)](https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/as/fall-2021/#math-ga2047-001)
- 
+ I am deeply interested in Algorithmic and Systematic Trading. 
  
 Do check out my repositories and feel free to reach out to me. All of my portfolio is about what I have worked on in my graduate studies. 
 
