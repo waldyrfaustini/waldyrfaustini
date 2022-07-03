@@ -32,7 +32,7 @@ I have worked in a trading desk my entire career, I started in São Paulo in 201
  
  I am deeply interested in Algorithmic and Systematic Trading. 
  
-Do check out my repositories and feel free to reach out to me. All of my portfolio is about what I have worked on in my graduate studies. 
+Do check out my repositories and feel free to reach out to me. All of my portfolio is about what I have worked in my graduate studies. 
 
 </h4>
 </div>
