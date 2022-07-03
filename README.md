@@ -28,6 +28,7 @@ I have worked in a trading desk my entire career, I started in São Paulo in 201
  - [Computational Methods in Finance (FE621)](https://fsc.stevens.edu/fe621-computational-methods-in-finance/)
  - [Portfolio Theory and Applications (FE630)](https://fsc.stevens.edu/fe630-portfolio-theory-and-applications/)
  - [Advanced Derivatives (FE680)](https://fsc.stevens.edu/fe680-advanced-derivatives/)
+ - [Design, Patterns and Derivatives Pricing (FE545)](https://fsc.stevens.edu/fe545-design-patterns-and-derivatives-pricing/)
  
  I am deeply interested in Algorithmic and Systematic Trading. 
  
